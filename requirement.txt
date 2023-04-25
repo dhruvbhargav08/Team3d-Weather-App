@@ -1,0 +1,7 @@
+python 3.9.7
+flet  0.3.2
+
+
+Python can be installed from https://www.python.org/downloads/
+
+flet can be install using pip install flet 
