@@ -13,5 +13,3 @@ Mr. Upendra Singh
 
 
 
-
-https://user-images.githubusercontent.com/97904433/234365225-810adeae-8ba4-4b17-94b6-b991f83560e5.mp4
